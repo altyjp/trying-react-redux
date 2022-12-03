@@ -1,3 +1,6 @@
+# Tutorial of React-Redux
+https://reffect.co.jp/react/react-redux-for-beginner
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
